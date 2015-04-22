@@ -1,2 +1,2 @@
-# my-first-python
+# My First Python
 Writing my first simple Python script. Probably have a lot more coming in the future...maybe...
